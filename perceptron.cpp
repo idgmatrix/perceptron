@@ -16,7 +16,7 @@ int numTest = 0;
 int numTrain = 0;
 
 TEST_PATTERN tpattern[20];
-LERNING_PATTERN lpattern[30];
+LEARNING_PATTERN lpattern[30];
 
 float Sigmoid(float net);
 void ProcessNet(void);
