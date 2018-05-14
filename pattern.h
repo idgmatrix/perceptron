@@ -1,10 +1,10 @@
 #ifndef PATTERN_H
 #define PATTERN_H
 
-typedef struct tagLERNING_PATTERN {
+typedef struct tagLEARNING_PATTERN {
 	float Number[64];
 	float Target[10];
-} LERNING_PATTERN;
+} LEARNING_PATTERN;
 
 typedef struct tagTEST_PATTERN {
 	float Number[64];
