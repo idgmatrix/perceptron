@@ -72,7 +72,7 @@ cont1: ;
 
 	//////////////////////////////////////////////////////////////////
 
-	fp = fopen("lern.txt", "r");
+	fp = fopen("learn.txt", "r");
 	if (fp == NULL)
 	{
 		MessageBox(g_hWnd, "lern.txt File Not Found", "Error", MB_OK);
